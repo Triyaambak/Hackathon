@@ -48,7 +48,7 @@ Moreover, MediEase supports multilingual translation capabilities, allowing medi
 
 ### Install frontend
 ```bash
- cd backend
+ cd frontend
  npm install
  ```
 
